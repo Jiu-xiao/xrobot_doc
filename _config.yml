@@ -1,9 +1,13 @@
 title: XRobot Doc
 description: XRobot Doc
-theme: just-the-docs
 
 url: https://xrobot-org.github.io/
 
 aux_links:
   Github: https://github.com/xrobot-org/XRobot
   Gitee: https://gitee.com/x-robot/XRobot
+
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: https://github.com/just-the-docs/just-the-docs
