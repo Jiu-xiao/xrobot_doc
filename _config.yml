@@ -3,6 +3,11 @@ description: XRobot Doc
 
 url: https://xrobot-org.github.io/
 
+logo: "img/XRobot.png"
+
+favicon_ico: "img/XRobot.jpeg"
+
+
 aux_links:
   Github: https://github.com/xrobot-org/XRobot
   Gitee: https://gitee.com/x-robot/XRobot
